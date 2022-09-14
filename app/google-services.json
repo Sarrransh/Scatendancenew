@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "1058756821516",
+    "firebase_url": "https://pbl-626fb-default-rtdb.firebaseio.com",
+    "project_id": "pbl-626fb",
+    "storage_bucket": "pbl-626fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058756821516:android:2ed7827338ed73e40a6429",
+        "android_client_info": {
+          "package_name": "com.example.attendence"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058756821516-j6vlsu4jav3ju4mijs1tpotppj6ti5jh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcs5MMlm7A5gofqtLBlytJTD8956S7V1Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1058756821516-j6vlsu4jav3ju4mijs1tpotppj6ti5jh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058756821516:android:c29bc3bf0d4a8d940a6429",
+        "android_client_info": {
+          "package_name": "com.example.pblpro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058756821516-j6vlsu4jav3ju4mijs1tpotppj6ti5jh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcs5MMlm7A5gofqtLBlytJTD8956S7V1Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1058756821516-j6vlsu4jav3ju4mijs1tpotppj6ti5jh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058756821516:android:73d6d436a99d30620a6429",
+        "android_client_info": {
+          "package_name": "com.example.scatendance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058756821516-j6vlsu4jav3ju4mijs1tpotppj6ti5jh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcs5MMlm7A5gofqtLBlytJTD8956S7V1Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1058756821516-j6vlsu4jav3ju4mijs1tpotppj6ti5jh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
